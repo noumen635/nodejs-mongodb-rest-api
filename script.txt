@@ -1,9 +1,3 @@
-// Implicitly create the student database
-use student
-
-// Verify that the student database was really created
-db
-
 // Create and insert some data in the students collection
 db.students.insertOne({"name" : "Patrick", "roll" : "123456789", "present" : true})
 db.students.insertOne({"name" : "Leon", "roll" : "789456123", "present" : false})
