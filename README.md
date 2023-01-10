@@ -22,6 +22,7 @@ npm install
 
 #### 1.1.2 Download and install MongoDB
 Since the project uses MongoDB as the database, we need to download and install it locally. Here is the link below :
+
 [mongodb-windows-x86_64-6.0.3-signed.msi](https://www.mongodb.com/download-center/community/releases).
 
 Note : Leave checked the option "Install MongoDBCompass" and after the installation precise the MongoDB bin folder in your PATH environment variable. 
@@ -31,7 +32,9 @@ mongod --version
 mongo
 ``` 
 If the mongo command does not work, it means you need to install MongoDB Shell. Here is the link :
+
 [download MongoDB Shell](https://winget.run/pkg/MongoDB/Shell)
+
 Note : Just paste the command given on the site in your Windows command prompt or cmd
 
 #### 1.1.3 Create the database, the collection and insert some datasets
