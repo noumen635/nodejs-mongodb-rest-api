@@ -22,8 +22,8 @@ npm install
 
 #### 1.1.2 Download and install MongoDB
 Since the project uses MongoDB as the database, we need to download and install it locally. Here is the link below :
-```mongodb
-[mongodb-windows-x86_64-6.0.3-signed.msi](https://www.mongodb.com/download-center/community/releases)
+[mongodb-windows-x86_64-6.0.3-signed.msi](https://www.mongodb.com/download-center/community/releases).
+
 Note : Leave checked the option "Install MongoDBCompass" and after the installation precise the MongoDB bin folder in your PATH environment variable. 
 To ensure MongoDB was successfully installed, go to your command prompt and type these commands :
 ```mongodb
