@@ -1,5 +1,5 @@
 # nodejs-mongodb-rest-api
-A REST api built using NodeJS and MongoDB
+A Restful API built using NodeJS and MongoDB
 
 ## Summary
 1. About
